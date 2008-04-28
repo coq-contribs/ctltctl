@@ -9,6 +9,6 @@ Date: February-March 2000.
 Description: This library formalises two logics for reasoning about
 reactive systems (CTL) and real time systems (TCTL) represents using
 timed automatas (timed graphs) with discrete time.
-Keywords: CTL, TCTL, real time systems, reactive systems, timed
-automatas (timed graphs), discrete time.
+Keywords: CTL, TCTL, real time systems, reactive systems, temporal logic,
+	  timed automatas, timed graphs, discrete time, modal logic
 Category: Mathematics/Logic/Modal logic
